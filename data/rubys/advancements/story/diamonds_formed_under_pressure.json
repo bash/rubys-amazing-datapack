@@ -1,0 +1,23 @@
+{
+  "parent": "minecraft:story/form_obsidian",
+  "display": {
+    "icon": {
+      "item": "minecraft:diamond"
+    },
+    "title": "Apply Pressure",
+    "description": "Diamonds are formed under pressure"
+  },
+  "criteria": {
+    "has_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "rubys:pressure_diamond"
+      }
+    }
+  },
+  "requirements": [
+    [
+      "has_recipe"
+    ]
+  ]
+}

@@ -1,0 +1,20 @@
+{
+    "type": "crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "minecraft:crafting_table"
+        },
+        {
+            "item": "minecraft:emerald"
+        }
+    ],
+    "result": {
+        "count": 1,
+        "nbt": {
+            "display": {
+                "Name": "Get Home Token"
+            }
+        },
+        "item": "minecraft:emerald"
+    }
+}

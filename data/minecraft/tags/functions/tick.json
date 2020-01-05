@@ -1,0 +1,7 @@
+{
+	"values": [
+		"rubys:teleport_home",
+		"rubys:teleport_players",
+		"rubys:decrement_wait_ticks"
+	]
+}
